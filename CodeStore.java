@@ -897,17 +897,5 @@ NOTE : In String after equal to we use [ "" ]
           return inputvalue;
       }    
 
-
-
-                                            CODE 34 [ ]
-
-
-
-
-
-
-
-
-
    */ }
 }
